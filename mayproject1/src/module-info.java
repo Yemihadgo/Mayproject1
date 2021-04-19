@@ -1,0 +1,2 @@
+module mayproject1 {
+}
